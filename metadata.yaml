@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41715'
     url: http://www.gutenberg.org/2009/agents/41715
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42493#Lady-Eureka-Volume-3--13-or-The-Mystery--A-Prophecy-of-the-Future
 gutenberg_issued: '2013-04-08'
 gutenberg_type: Text
 identifiers:
